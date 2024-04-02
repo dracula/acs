@@ -1,6 +1,6 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [IBM i Access - Client Solutions](https://www.ibm.com/support/pages/ibm-i-access-client-solutions)
 
-> A dark theme for [IBM I Access - Client Solutions](https://www.ibm.com/support/pages/ibm-i-access-client-solutions).
+> A dark theme for [IBM i Access - Client Solutions](https://www.ibm.com/support/pages/ibm-i-access-client-solutions).
 
 ![Screenshot](https://github.com/AydenB/DraculaACS/assets/24871012/18157a1d-e2f4-4568-9952-2715cc50e0fa)
 
