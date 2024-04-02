@@ -1,19 +1,15 @@
-### [IBM i Access Client Solutions](https://foobar.com](https://www.ibm.com/support/pages/ibm-i-access-client-solutions)
+### [IBM i Access Client Solutions](https://www.ibm.com/support/pages/ibm-i-access-client-solutions)
 
-#### Install using Git
+#### Install 
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+Download using the [GitHub .zip download](https://github.com/dracula/acs/archive/master.zip) option
 
-```bash
-git clone https://github.com/dracula/foobar.git
-```
-
-#### Install manually
-
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Import the Dracula5250.col theme into ACS
+   
+  ![image](https://github.com/AydenB/DraculaACS/assets/24871012/2711450a-ff7e-468c-b4ab-9344095abeef)
+
+  ![image](https://github.com/AydenB/DraculaACS/assets/24871012/9ef4b6f8-2a81-4b68-8cb2-0df8da9d7d16)
+
