@@ -2,7 +2,7 @@
 
 > A dark theme for [IBM i Access - Client Solutions](https://www.ibm.com/support/pages/ibm-i-access-client-solutions).
 
-![Screenshot](/screenshot.png)
+![Screenshot](/ACS_Screenshot.png)
 
 ## Install
 
