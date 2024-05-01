@@ -8,6 +8,6 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/acs/archi
 
 Import the `Dracula5250.col` theme into **ACS**:
 
-![Visual instruction 01](/https://raw.githubusercontent.com/dracula/acs/main/visual-instruction-01.png)
+![Visual instruction 01](https://raw.githubusercontent.com/dracula/acs/main/visual-instruction-01.png)
 
 ![Visual instruction 02](https://raw.githubusercontent.com/dracula/acs/main/visual-instruction-02.png)
