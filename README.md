@@ -6,7 +6,14 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/acs](https://draculatheme.com/acs).
+1. Download the theme using the [GitHub `.zip` download](https://github.com/dracula/acs/archive/main.zip) option.
+2. Import the `Dracula5250.col` file into ACS:
+
+![Visual instruction 01](/visual-instruction-01.png)
+
+![Visual instruction 02](/visual-instruction-02.png)
+
+Full walkthrough also available at [draculatheme.com/acs](https://draculatheme.com/acs).
 
 ## Team
 
